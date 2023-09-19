@@ -1,14 +1,18 @@
-#Completed Projects
-- [Metaversus](#Metaversus)
-- [Three.Js Basic Sphere][#Three.Js-Basic-Sphere]
-- [Three.Js Shirt Site][#Three.Js-Shirt-Site]
-- [Three.Js Solar System Explorer][#Three.Js-Solar-System-Explorer]
+# Completed Projects
+
+- [Metaversus](#metaversus)
+- [Three.Js Basic Sphere](#threejs-basic-sphere)
+- [Three.Js Shirt Site](#threejs-shirt-site)
+- [Three.Js Solar System Explorer](#threejs-solar-system-explorer)
   
-## [Metaversus](https://github.com/Nishant-Jain-Codes/metaversus)
+## Metaversus
+[GitHub Repository](https://github.com/Nishant-Jain-Codes/metaversus)
 
-## [Three.Js Basic Sphere](https://github.com/Nishant-Jain-Codes/threeJs-Basic-Sphere)
+## Three.Js Basic Sphere
+[GitHub Repository](https://github.com/Nishant-Jain-Codes/threeJs-Basic-Sphere)
 
-## [Three.Js Shirt Site](https://github.com/Nishant-Jain-Codes/threeJS-shirtSite)
+## Three.Js Shirt Site
+[GitHub Repository](https://github.com/Nishant-Jain-Codes/threeJS-shirtSite)
 
-## [Three.Js Solar System Explorer](https://github.com/Nishant-Jain-Codes/threeJS-SolarSystemExplorer)
-
+## Three.Js Solar System Explorer
+[GitHub Repository](https://github.com/Nishant-Jain-Codes/threeJS-SolarSystemExplorer)
