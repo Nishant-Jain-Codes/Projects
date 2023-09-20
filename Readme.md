@@ -18,4 +18,4 @@
 [GitHub Repository](https://github.com/Nishant-Jain-Codes/threeJS-SolarSystemExplorer)
 
 ## NGO Website
-[Link](umeedfoundation.co)
+[Website Link](https://umeedfoundation.co/)
